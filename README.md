@@ -1,2 +1,3 @@
-# APKInspect
-Cool python project to build and decode APKs 
+no readme 4 u
+
+but apktool is NEEDED
